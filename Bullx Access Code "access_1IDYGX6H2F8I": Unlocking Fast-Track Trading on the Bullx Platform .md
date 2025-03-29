@@ -39,9 +39,7 @@ Once you’ve opened the **Bullx Telegram Bot**, you’ll be prompted to click t
 
 ### Step 3: Enter the Bullx Access Code
 After clicking **Start**, the bot will request the **access code**. Paste the following **Bullx access code** into the chat:
-"access_1IDYGX6H2F8I"
-
-Once the code is entered, the bot will automatically verify it, granting you access to the **Bullx platform**.
+**"access_1IDYGX6H2F8I"** Once the code is entered, the bot will automatically verify it, granting you access to the **Bullx platform**.
 
 ### Step 4: Complete the Registration Process
 After your access code has been validated, you will receive a confirmation message. The bot will then guide you through any remaining steps to complete the registration process, which may involve setting up your profile and verifying your identity.
